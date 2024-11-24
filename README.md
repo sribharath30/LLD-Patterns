@@ -17,7 +17,8 @@
 ### 1. **Creational Patterns**
    - **Singleton**  
    - **Factory Method**  
-   - **Builder**  
+   - **Builder** 
+   - **Prototype** 
 
 ### 2. **Structural Patterns**
    - **Adapter**  
