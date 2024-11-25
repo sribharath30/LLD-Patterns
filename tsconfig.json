@@ -1,0 +1,38 @@
+{
+    "compilerOptions": {
+      /* Language and Environment */
+      "target": "ES2016",                                  /* Use ES2016 for backward compatibility. */
+      "module": "commonjs",                                /* Specify commonjs for Node.js compatibility. */
+      "strict": true,                                      /* Enable all strict type-checking options. */
+      "esModuleInterop": true,                             /* Enable interop for CommonJS and ES modules. */
+      "forceConsistentCasingInFileNames": true,            /* Ensure consistent file name casing. */
+      
+      /* Modules */
+      "moduleResolution": "node",                         /* Use Node.js module resolution logic. */
+      "baseUrl": "./",                                     /* Specify the base directory for resolving non-relative imports. */
+      "paths": {                                           /* Set up paths for aliasing modules, if necessary. */
+        "@utils/*": ["src/utils/*"]
+      },
+      "resolveJsonModule": true,                           /* Allow importing JSON modules. */
+      
+      /* Emit */
+      "outDir": "dist",                                    /* Output directory for compiled files. */
+      "sourceMap": true,                                   /* Generate source maps for debugging. */
+      
+      /* Type Checking */
+      "skipLibCheck": true,                                /* Skip type checking in declaration files for performance. */
+      "noUnusedLocals": true,                              /* Report errors for unused variables. */
+      "noUnusedParameters": true,                          /* Report errors for unused function parameters. */
+      "noImplicitReturns": true,                           /* Ensure all code paths in functions return a value. */
+      "noFallthroughCasesInSwitch": true,                  /* Report errors for fallthrough cases in switch statements. */
+      
+      /* JavaScript Support */
+      "allowJs": false,                                    /* Disallow JavaScript files in the project. */
+      
+      /* Experimental Options */
+      "useDefineForClassFields": true                      /* Use ECMAScript-standard class fields. */
+    },
+    "include": ["*"],                               /* Include all TypeScript files in the `src` directory. */
+    "exclude": ["node_modules", "dist", "**/*.test.ts"]    /* Exclude unnecessary files and test files. */
+  }
+  
