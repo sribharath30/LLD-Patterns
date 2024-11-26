@@ -1,4 +1,4 @@
-import { Factory } from "./Factory";
+import { Factory } from "./concrete-factory/Factory";
 
 const factory = new Factory();
 const bike = factory.createVehicle('bike');

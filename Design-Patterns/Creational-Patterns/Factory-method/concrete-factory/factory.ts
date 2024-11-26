@@ -1,7 +1,7 @@
-import { Bike } from "./Bike(Concrete-product)";
-import { Car } from "./Car(Concrete-product)";
-import { Truck } from "./Truck(Concrete-product)";
-import { Vehicle } from "./vehicle(product)";
+import { Bike } from "../concrete-products/bike(concrete-product)";
+import { Car } from "../concrete-products/car(concrete-product)";
+import { Truck } from "../concrete-products/truck(concrete-product)";
+import { Vehicle } from "../abstract-product/vehicle(product)";
 
 export type VehicleType = 'car' | 'bike' | 'truck';
 export class Factory {
