@@ -16,7 +16,8 @@
 
 ### 1. **Creational Patterns**
    - **Singleton**  
-   - **Factory Method**  
+   - **Factory Method** 
+   - **Abstarct Factory Method**   
    - **Builder** 
    - **Prototype** 
 
