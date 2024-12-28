@@ -8,18 +8,18 @@
 
 ### **EASY**
 
-- **Day 2**: Design Vending Machine  
-- **Day 3**: Design Stack Overflow  
-- **Day 4**: Design Logging Framework  
-- **Day 5**: Design Task Management System  
-- **Day 6**: Design Pub/Sub System  
+- **Day 2**: Design Vending Machine✅  
+- **Day 3**: Design Stack Overflow✅  
+- **Day 4**: Design Logging Framework✅   
+- **Day 5**: Design Task Management System✅   
+- **Day 6**: Design Pub/Sub System✅   
 
 ---
 
 ### **MEDIUM**
 
-- **Day 7**: Design an ATM  
-- **Day 8**: Design Car Rental System  
+- **Day 7**: Design an ATM✅   
+- **Day 8**: Design Car Rental System✅   
 - **Day 9**: Design a Library Management System  
 - **Day 10**: Design a Cache using LRU Eviction Policy  
 - **Day 11**: Design Movie Ticket Booking System  
