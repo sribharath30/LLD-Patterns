@@ -20,8 +20,8 @@
 
 - **Day 7**: Design an ATM✅   
 - **Day 8**: Design Car Rental System✅   
-- **Day 9**: Design a Library Management System  
-- **Day 10**: Design a Cache using LRU Eviction Policy  
+- **Day 9**: Design a Library Management System✅  
+- **Day 10**: Design a Cache using LRU Eviction Policy✅   
 - **Day 11**: Design Movie Ticket Booking System  
 
 ---
