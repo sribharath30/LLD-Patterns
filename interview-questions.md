@@ -22,13 +22,13 @@
 - **Day 8**: Design Car Rental System✅   
 - **Day 9**: Design a Library Management System✅  
 - **Day 10**: Design a Cache using LRU Eviction Policy✅   
-- **Day 11**: Design Movie Ticket Booking System  
+- **Day 11**: Design Movie Ticket Booking System✅
 
 ---
 
 ### **HARD**
 
-- **Day 12**: Design Splitwise  
+- **Day 12**: Design Splitwise✅  
 - **Day 13**: Design Snake and Ladder Game  
 - **Day 14**: Design Ride-Sharing Service (like Uber)  
 - **Day 15**: Design Online Shopping System (like Amazon)  
